@@ -1,0 +1,14 @@
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\bin\Debug\net6.0\HexadécimaleTP.exe
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\bin\Debug\net6.0\HexadécimaleTP.deps.json
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\bin\Debug\net6.0\HexadécimaleTP.runtimeconfig.json
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\bin\Debug\net6.0\HexadécimaleTP.dll
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\bin\Debug\net6.0\HexadécimaleTP.pdb
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\obj\Debug\net6.0\HexadécimaleTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\obj\Debug\net6.0\HexadécimaleTP.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\obj\Debug\net6.0\HexadécimaleTP.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\obj\Debug\net6.0\HexadécimaleTP.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\obj\Debug\net6.0\HexadécimaleTP.dll
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\obj\Debug\net6.0\refint\HexadécimaleTP.dll
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\obj\Debug\net6.0\HexadécimaleTP.pdb
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\obj\Debug\net6.0\HexadécimaleTP.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\HexadécimaleTP\HexadécimaleTP\obj\Debug\net6.0\ref\HexadécimaleTP.dll

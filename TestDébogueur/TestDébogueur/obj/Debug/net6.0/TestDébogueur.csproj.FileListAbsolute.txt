@@ -1,0 +1,14 @@
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\bin\Debug\net6.0\TestDébogueur.exe
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\bin\Debug\net6.0\TestDébogueur.deps.json
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\bin\Debug\net6.0\TestDébogueur.runtimeconfig.json
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\bin\Debug\net6.0\TestDébogueur.dll
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\bin\Debug\net6.0\TestDébogueur.pdb
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\obj\Debug\net6.0\TestDébogueur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\obj\Debug\net6.0\TestDébogueur.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\obj\Debug\net6.0\TestDébogueur.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\obj\Debug\net6.0\TestDébogueur.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\obj\Debug\net6.0\TestDébogueur.dll
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\obj\Debug\net6.0\refint\TestDébogueur.dll
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\obj\Debug\net6.0\TestDébogueur.pdb
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\obj\Debug\net6.0\TestDébogueur.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\TestDébogueur\TestDébogueur\obj\Debug\net6.0\ref\TestDébogueur.dll
