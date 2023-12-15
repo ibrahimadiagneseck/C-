@@ -47,32 +47,83 @@ namespace Lab
                     goto recommencer;
                 }
 
+                int choix = -1;
+
                 int nombreATrouver = GenererNombreAleatoire(borneInferieure, borneSuperieure);
                 /*Console.WriteLine("nombreATrouver " + nombreATrouver);*/
 
                 int nombreDePossibilites = CalculerNombreDePossibilites(borneInferieure, borneSuperieure);
                 int nombreDeTentatives = 0;
 
-                
+                /*-----------------------------------------------------*/
 
-                int choix = ChoisirNombre(borneInferieure, borneSuperieure);
+                bool recommencer1 = true;
+                choixFaits.Clear();
 
-                if (choix == -1)
+
+                while (recommencer1 && nombreDeTentatives < nombreDePossibilites)
+                {
+                    choix = ChoisirNombre(borneInferieure, borneSuperieure);
+                    choixFaits.Add(choix);
+                    nombreDeTentatives++;
+
+                    if (choix == -1)
+                    {
+                        recommencer = false;
+                        recommencer1 = false;
+                        Console.Clear();
+                        Console.WriteLine("Lab1 terminé!\n");
+                    }
+                    else if (choix == nombreATrouver)
+                    {
+                        recommencer1 = false;
+                        Console.Clear();
+                        Console.WriteLine("Vos choix : " + string.Join(", ", choixFaits));
+                        Console.WriteLine("Vous avez gagné! Rejouer à nouveau.\n\n");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Vos choix : " + string.Join(", ", choixFaits));
+                        Console.Write("Pas bon. Essayez à nouveau. \t");
+                        Console.WriteLine(nombreDeTentatives + " Tentatives qui reste sur " + nombreDePossibilites + " possibilités\n");
+                    }
+                }
+
+                if (nombreDeTentatives == nombreDePossibilites)
                 {
                     recommencer = false;
                     Console.Clear();
-                    Console.WriteLine("Lab1 terminé!\n");
-                    break;
-                } 
-                else if (choix == nombreATrouver)
-                {
-                    Console.WriteLine("Vous avez gagné!\n");
+                    Console.WriteLine("Vos choix : " + string.Join(", ", choixFaits));
+                    Console.WriteLine("Vous avez perdu. Le nombre à trouver était : {0}\n", nombreATrouver);
                 }
-                else
+
+                if (choix != -1)
                 {
-                    /*Console.WriteLine("Vous avez perdu. Ce n'est pas {0}.", choix);*/
-                    Console.WriteLine("Vous avez perdu.\n");
+                    double note = (double)nombreDePossibilites / nombreDeTentatives;
+                    Console.WriteLine($"Votre note : {note} / {nombreDePossibilites}");
                 }
+                
+
+                /*-----------------------------------------------------*/
+
+                /*int choix = ChoisirNombre(borneInferieure, borneSuperieure);*/
+
+                /* if (choix == -1)
+                 {
+                     recommencer = false;
+                     Console.Clear();
+                     Console.WriteLine("Lab1 terminé!\n");
+                     break;
+                 } 
+                 else if (choix == nombreATrouver)
+                 {
+                     Console.WriteLine("Vous avez gagné!\n");
+                 }
+                 else
+                 {
+                     *//*Console.WriteLine("Vous avez perdu. Ce n'est pas {0}.", choix);*//*
+                     Console.WriteLine("Vous avez perdu.\n");
+                 }*/
 
                 /*Console.WriteLine("Voulez-vous jouer à nouveau ? (Oui/Non)");
                 string jouer = Console.ReadLine();
@@ -108,8 +159,9 @@ namespace Lab
             {
                 try
                 {
-                    
+                    Console.Write("===> ");
                     entree = Console.ReadLine();
+
 
                     if (entree.ToLower() == "q")
                     {
@@ -161,8 +213,8 @@ namespace Lab
             {
                 try
                 {
-                    Console.WriteLine(message);
-
+                    Console.WriteLine(message + "(tapez 'q' pour quitter):");
+                    Console.Write("===> ");
                     string choix = Console.ReadLine();
 
                     if (choix.ToLower() == "q")
@@ -201,12 +253,6 @@ namespace Lab
             return borne;
 
         }
-
-
-
-
-
-
 
 
     }
