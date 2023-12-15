@@ -1,0 +1,14 @@
+C:\Users\ibrah\source\repos\Lab\Lab\bin\Debug\net6.0\Lab.exe
+C:\Users\ibrah\source\repos\Lab\Lab\bin\Debug\net6.0\Lab.deps.json
+C:\Users\ibrah\source\repos\Lab\Lab\bin\Debug\net6.0\Lab.runtimeconfig.json
+C:\Users\ibrah\source\repos\Lab\Lab\bin\Debug\net6.0\Lab.dll
+C:\Users\ibrah\source\repos\Lab\Lab\bin\Debug\net6.0\Lab.pdb
+C:\Users\ibrah\source\repos\Lab\Lab\obj\Debug\net6.0\Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\Lab\Lab\obj\Debug\net6.0\Lab.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\Lab\Lab\obj\Debug\net6.0\Lab.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\Lab\Lab\obj\Debug\net6.0\Lab.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Lab\Lab\obj\Debug\net6.0\Lab.dll
+C:\Users\ibrah\source\repos\Lab\Lab\obj\Debug\net6.0\refint\Lab.dll
+C:\Users\ibrah\source\repos\Lab\Lab\obj\Debug\net6.0\Lab.pdb
+C:\Users\ibrah\source\repos\Lab\Lab\obj\Debug\net6.0\Lab.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\Lab\Lab\obj\Debug\net6.0\ref\Lab.dll

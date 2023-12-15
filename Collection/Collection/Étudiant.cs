@@ -75,7 +75,7 @@ namespace Collection
             Console.WriteLine($"Moyenne: {moyenne}");
         }
 
-        public static void afficheDonneesEtudiants(List<Étudiant> collectionEtudiants)
+        public static void AfficheDonneesEtudiants(List<Étudiant> collectionEtudiants)
         {
 
             Console.WriteLine("Affichage des données des étudiants:");

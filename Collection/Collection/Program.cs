@@ -7,14 +7,14 @@ namespace Collection
     {
         static void Main(string[] args)
         {
-            /*List<Étudiant> etudiants = new List<Étudiant>();
+            List<Étudiant> etudiants = new List<Étudiant>();
 
             etudiants = Étudiant.LireDonneesEtudiants();
 
-            Étudiant.AfficheDonneesEtudiants(etudiants);*/
+            Étudiant.AfficheDonneesEtudiants(etudiants);
 
 
-            Étudiant etudiant = new Étudiant();
+            /*Étudiant etudiant = new Étudiant();
 
             Console.Write("Nom de l'étudiant: ");
             string nom = Console.ReadLine();
@@ -36,7 +36,7 @@ namespace Collection
                 NoteDevoir = noteDevoir
             };
 
-            Étudiant.AfficheDonneesEtudiant(etudiant);
+            Étudiant.AfficheDonneesEtudiant(etudiant);*/
 
 
             /*SortedList lstEmployé = new SortedList();
