@@ -1,0 +1,14 @@
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\bin\Debug\net6.0\Distributeur.exe
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\bin\Debug\net6.0\Distributeur.deps.json
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\bin\Debug\net6.0\Distributeur.runtimeconfig.json
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\bin\Debug\net6.0\Distributeur.dll
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\bin\Debug\net6.0\Distributeur.pdb
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\obj\Debug\net6.0\Distributeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\obj\Debug\net6.0\Distributeur.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\obj\Debug\net6.0\Distributeur.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\obj\Debug\net6.0\Distributeur.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\obj\Debug\net6.0\Distributeur.dll
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\obj\Debug\net6.0\refint\Distributeur.dll
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\obj\Debug\net6.0\Distributeur.pdb
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\obj\Debug\net6.0\Distributeur.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\Distributeur\Distributeur\obj\Debug\net6.0\ref\Distributeur.dll
